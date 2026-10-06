@@ -1,0 +1,29 @@
+# Local settings and credentials
+LOCAL_POLICY.md
+.env
+.env.*
+*.env
+.secrets/
+credentials/
+# Project work, generated output and caches
+project/
+projects/
+assets/
+audio/
+outputs/
+qa/
+work/
+research/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.log
